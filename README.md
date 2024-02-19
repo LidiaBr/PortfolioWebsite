@@ -1,1 +1,1 @@
-This website was done with the hlp of freeCodeCamp.
+This website was done with the help of freeCodeCamp.
